@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ao1s5tlhi-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ao1s5tlhi-dotnet-basic
